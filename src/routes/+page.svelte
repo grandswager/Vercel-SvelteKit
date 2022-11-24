@@ -16,7 +16,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		to the grandswager<br /><strong>Counting Software</strong>
 	</h1>
 
 	<h2>
