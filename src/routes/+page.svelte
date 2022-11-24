@@ -20,7 +20,7 @@
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/index.svelte</strong>
+		The grandswager <strong>Counting Software</strong>.
 	</h2>
 
 	<Counter />
