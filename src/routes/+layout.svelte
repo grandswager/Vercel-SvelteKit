@@ -23,7 +23,7 @@
 </main>
 
 <footer>
-	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+	<p>Visit <a href="https://grandswager.repl.co">grandswager.repl.co</a> to the grandswager Website.</p>
 </footer>
 
 <style>
